@@ -1,0 +1,1 @@
+./../../emsdk/clang/e1.38.28_64bit/binaryen/bin/wasm-dis hello.wasm -o hello.wast
